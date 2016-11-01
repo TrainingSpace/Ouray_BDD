@@ -31,7 +31,7 @@
         "steps": [
           {
             "result": {
-              "duration": 292187640,
+              "duration": 541155077,
               "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
               "status": "pending"
             },
@@ -155,7 +155,7 @@
         "steps": [
           {
             "result": {
-              "duration": 561802,
+              "duration": 637786,
               "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
               "status": "pending"
             },
@@ -294,7 +294,7 @@
         "steps": [
           {
             "result": {
-              "duration": 475190,
+              "duration": 1001953,
               "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
               "status": "pending"
             },
