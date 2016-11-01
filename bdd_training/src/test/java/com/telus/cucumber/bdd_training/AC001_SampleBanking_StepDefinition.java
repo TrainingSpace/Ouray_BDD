@@ -1,3 +1,7 @@
+/**
+ * Test Class
+ */
+
 package com.telus.cucumber.bdd_training;
 import cucumber.api.DataTable;
 import cucumber.api.PendingException;
