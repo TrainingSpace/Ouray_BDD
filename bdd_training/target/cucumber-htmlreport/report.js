@@ -67,7 +67,7 @@ formatter.match({
   "location": "AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app()"
 });
 formatter.result({
-  "duration": 541155077,
+  "duration": 486663000,
   "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
   "status": "pending"
 });
@@ -256,7 +256,7 @@ formatter.match({
   "location": "AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app()"
 });
 formatter.result({
-  "duration": 637786,
+  "duration": 423616,
   "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
   "status": "pending"
 });
@@ -391,7 +391,7 @@ formatter.match({
   "location": "AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app()"
 });
 formatter.result({
-  "duration": 1001953,
+  "duration": 461410,
   "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.telus.cucumber.bdd_training.AC001_SampleBanking_StepDefinition.a_user_access_the_bank_web_app(AC001_SampleBanking_StepDefinition.java:13)\r\n\tat ✽.Given a user access the bank web app(Sample banking acceptance criteria.feature:13)\r\n",
   "status": "pending"
 });
